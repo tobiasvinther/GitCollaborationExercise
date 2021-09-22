@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\gmsst_000\Desktop\KEA\Semester 2\Teknologi\Øvelser\GitCollaborationExercise\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# more
+.idea
+GitCollaborationExercise.iml
